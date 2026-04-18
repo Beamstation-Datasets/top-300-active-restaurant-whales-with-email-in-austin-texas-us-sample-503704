@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1d4b71a8-e5da-4c1f-a645-d6824c528133",
+  "export_job_id": "acfd68a2-122b-4aff-847b-26e7ceefa530",
   "id_short": 503704,
-  "published_at": "2026-04-12T19:33:19Z",
+  "published_at": "2026-04-18T19:15:46Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-austin-texas-us-sample-503704",
   "sample_asset_name": "beamstation_503704_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/503704/beamstation_503704_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "1a194dc3d35b111b2dea7aa418f7306a2ac97ee256148779dd049ba2149a26c3",
-  "sample_size_bytes": 98467,
-  "total_records": 202
+  "sample_records": 13,
+  "sample_sha256": "c6f89bad0832c1b17a218818bc6018f6378f2741e6d94c9a8d4a36239b5b9838",
+  "sample_size_bytes": 66986,
+  "total_records": 134
 }

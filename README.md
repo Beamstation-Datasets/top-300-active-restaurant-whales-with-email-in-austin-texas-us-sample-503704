@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in Austin, Texas, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `503704` |
 | Location | Austin |
 | Category | Restaurants |
-| Full dataset size | 80 records |
-| Free sample size | 8 records (10.0%) |
-| Last export | 2026-04-22T01:54:02.110679+00:00 |
+| Full dataset size | 243 records |
+| Free sample size | 24 records (9.88%) |
+| Last export | 2026-04-29T04:55:35.665420+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-austin-texas-us-sample-503704/releases/download/sample-latest/beamstation_503704_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
